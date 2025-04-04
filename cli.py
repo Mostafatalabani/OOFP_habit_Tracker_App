@@ -1,3 +1,6 @@
+# Author: Mostafa Talabani | Habit Tracker CLI | UID: MT-2025-HT-PRO
+
+
 import questionary
 from controller.habit_controller import HabitController
 from datetime import datetime

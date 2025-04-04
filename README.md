@@ -63,3 +63,7 @@ pytest test_habit_tracker.py
 ## Acknowledgements
 This habit tracker was built for personal productivity enthusiasts to help them stay on track and achieve their goals.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+Please credit the original author **Mostafa Talabani** when reusing or modifying this code.
